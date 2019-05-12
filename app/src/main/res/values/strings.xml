@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Workout_Advisor</string>
+    <string name="add_your_workout">Add Your Workout!</string>
+    <string name="button">HIT</string>
+    <string name="workout_here">Workout here!</string>
+    <string name="image">image</string>
+    <string-array name="workoutt">
+        <item>Items Here</item>
+         <item>Chest</item>
+        <item>Bicep</item>
+        <item>Shoulder</item>
+        <item>Legs</item>
+    </string-array>
+</resources>
